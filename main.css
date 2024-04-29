@@ -1,0 +1,29 @@
+
+body {
+    background-color: #f4f1e8; /* 米色背景 */
+    color: #333333; /* 深色文字 */
+    font-family: 'Courier New', Courier, monospace; /* 打字机字体 */
+}
+h1, h2 {
+    color: #5c3c1b; /* 棕色调 */
+}
+input, button {
+    background-color: #e8e1cf; /* 淡棕色按钮背景 */
+    border: none;
+    padding: 10px;
+    border-radius: 5px; /* 圆角边框 */
+}
+button {
+    color: white;
+    background-color: #8b5e3c; /* 暗棕色按钮 */
+    cursor: pointer; /* 鼠标悬停时指针形状 */
+}
+button:hover {
+    background-color: #a47040; /* 按钮悬停时颜色变化 */
+}
+div {
+    background-color: #eae0d5; /* 容器背景色 */
+    margin-top: 10px;
+    padding: 15px;
+    border-radius: 5px; /* 圆角边框 */
+}
